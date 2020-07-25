@@ -1,5 +1,5 @@
 # hello-world
-Just a repository to learn how to create a fast loading, responsive and secure web-site and web-app for small business
+Just a repository to learn how to create a simple responsive and secure web-site for a very small business.
 
 Hi Everyone!
-Just a editing to lean how it works.
+Just a editing to learn how it works.
